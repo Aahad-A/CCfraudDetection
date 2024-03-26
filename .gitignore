@@ -1,0 +1,14 @@
+a*.pdf
+v*.pdf
+*.png
+*.jpg
+e*.pdf
+hello.py
+DSC540*.ipynb
+DSC540*.py
+3*.pdf
+*.pptx
+*.json
+Credit Card Fraud Detection_ A Realistic Modeling and a Novel Learning Strategy.pdf
+fraudTrain.csv
+fraudTest.csv
