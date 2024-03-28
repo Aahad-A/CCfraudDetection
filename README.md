@@ -1,6 +1,7 @@
 # Credit Card Fraud Detection
 ### Dataset:
-Download both fraudTest.csv and fraudTrain.csv at '''https://www.kaggle.com/datasets/kartik2112/fraud-detection'''
+Download both fraudTest.csv and fraudTrain.csv at https://www.kaggle.com/datasets/kartik2112/fraud-detection
+Then you can run each cell in the jupyter notebook file to do the following:
 
 1. **Load Data**
     - a. Import Libraries
